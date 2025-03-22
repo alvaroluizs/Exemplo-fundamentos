@@ -1,0 +1,14 @@
+C:\Users\alvar\Documents\Exemplo fundamentos\bin\Debug\net10.0\Exemplo fundamentos.exe
+C:\Users\alvar\Documents\Exemplo fundamentos\bin\Debug\net10.0\Exemplo fundamentos.deps.json
+C:\Users\alvar\Documents\Exemplo fundamentos\bin\Debug\net10.0\Exemplo fundamentos.runtimeconfig.json
+C:\Users\alvar\Documents\Exemplo fundamentos\bin\Debug\net10.0\Exemplo fundamentos.dll
+C:\Users\alvar\Documents\Exemplo fundamentos\bin\Debug\net10.0\Exemplo fundamentos.pdb
+C:\Users\alvar\Documents\Exemplo fundamentos\obj\Debug\net10.0\Exemplo fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\Documents\Exemplo fundamentos\obj\Debug\net10.0\Exemplo fundamentos.AssemblyInfoInputs.cache
+C:\Users\alvar\Documents\Exemplo fundamentos\obj\Debug\net10.0\Exemplo fundamentos.AssemblyInfo.cs
+C:\Users\alvar\Documents\Exemplo fundamentos\obj\Debug\net10.0\Exemplo fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Documents\Exemplo fundamentos\obj\Debug\net10.0\Exemplo fundamentos.dll
+C:\Users\alvar\Documents\Exemplo fundamentos\obj\Debug\net10.0\refint\Exemplo fundamentos.dll
+C:\Users\alvar\Documents\Exemplo fundamentos\obj\Debug\net10.0\Exemplo fundamentos.pdb
+C:\Users\alvar\Documents\Exemplo fundamentos\obj\Debug\net10.0\Exemplo fundamentos.genruntimeconfig.cache
+C:\Users\alvar\Documents\Exemplo fundamentos\obj\Debug\net10.0\ref\Exemplo fundamentos.dll
